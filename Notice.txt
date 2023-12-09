@@ -1,0 +1,14 @@
+Temperature Data:
+
+climdiv-tmaxst-vx.y.z-YYYYMMDD: Statewide/regional/national monthly maximum temperature.
+climdiv-tminst-vx.y.z-YYYYMMDD: Statewide/regional/national monthly minimum temperature.
+climdiv-tmpcst-vx.y.z-YYYYMMDD: Statewide/regional/national average temperature.
+Precipitation Data:
+
+climdiv-pcpnst-vx.y.z-YYYYMMDD: Statewide/regional/national monthly precipitation data.
+Drought Indices:
+
+climdiv-pdsist-vx.y.z-YYYYMMDD: Palmer Drought Severity Index (PDSI).
+climdiv-phdist-vx.y.z-YYYYMMDD: Palmer Hydrological Drought Index (PHDI).
+climdiv-zndxst-vx.y.z-YYYYMMDD: Palmer "Z" Index (ZNDX).
+climdiv-sp01st-vx.y.z-YYYYMMDD to climdiv-sp24st-vx.y.z-YYYYMMDD: Standardized Precipitation Index for various time scales (1 to 24 months).

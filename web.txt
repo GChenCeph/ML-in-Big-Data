@@ -1,0 +1,5 @@
+https://www.wunderground.com/history/daily/us/va/roanoke/KROA/date/2000-11-18
+
+https://www.ncei.noaa.gov/pub/data/cirs/climdiv/ (using)
+
+https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
