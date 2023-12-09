@@ -5,15 +5,23 @@ Our project taps into the power of data analytics and artificial intelligence to
 ## Table of Contents
 
 - [DateSet](#dataset)
+- [Code](#code)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 
 ## DateSet
-1.1.88 Million US Wildfires  
+1. 1.88 Million US Wildfires  
 https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires  
-2.  Climatic Data Division：  
+2. Climatic Data Division：  
 https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
 
+## Code
+1.guangkai.ipynb:  
+Use data to build models and make model predictions.  
+2.prepocess.ipynb:  
+Data cleaning.  
+3.visualization.ipynb:  
+Data visualization.  
 ## Getting Started
 
 git clone https://github.com/GChenCeph/ML-in-Big-Data.git  
