@@ -11,7 +11,6 @@ Our project taps into the power of data analytics and artificial intelligence to
 ## DateSet
 1.1.88 Million US Wildfires  
 https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires  
-  
 2.  Climatic Data Division：  
 https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
 
