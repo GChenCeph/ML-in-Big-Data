@@ -1,0 +1,10 @@
+# requirements.txt
+
+jdcal
+matplotlib
+mapclassify
+numpy
+pandas
+scikit-learn
+scipy
+torch
