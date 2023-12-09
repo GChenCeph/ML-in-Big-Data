@@ -11,9 +11,9 @@ Our project taps into the power of data analytics and artificial intelligence to
 
 ## Getting Started
 
-git clone https://github.com/GChenCeph/ML-in-Big-Data.git
-python == 3.11
-pip install -r requirements.txt
+git clone https://github.com/GChenCeph/ML-in-Big-Data.git  
+python == 3.11  
+pip install -r requirements.txt  
 
 
 ## Usage
