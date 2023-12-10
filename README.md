@@ -24,7 +24,7 @@ Data cleaning.
 Data visualization.  
 ## Getting Started
 
-git clone https://github.com/GChenCeph/ML-in-Big-Data.git  
+git lfs clone https://github.com/GChenCeph/ML-in-Big-Data.git  
 python == 3.11  
 pip install -r requirements.txt  
 
